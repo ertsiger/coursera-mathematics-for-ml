@@ -6,6 +6,7 @@ This repository contains the code for all the programming tasks of the Machine L
 * [Identifying Special Matrices](linear-algebra/IdentifyingSpecialMatrices.ipynb)
 * [Gram-Schmidt Process](linear-algebra/GramSchmidtProcess.ipynb)
 * [Reflecting Bear](linear-algebra/ReflectingBear.ipynb)
+* [PageRank](linear-algebra/PageRank.ipynb)
 
 ## Multivariate Calculus ([link](https://www.coursera.org/learn/multivariate-calculus-machine-learning))
 
