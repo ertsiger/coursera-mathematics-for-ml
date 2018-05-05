@@ -16,3 +16,4 @@ This repository contains the code for all the programming tasks of the Machine L
 ## PCA ([link](https://www.coursera.org/learn/pca-machine-learning))
 
 * [Mean/Covariance of a data set and effect of linear transformation](pca/week1.ipynb)
+* [Distances and Angles between Images](pca/week2.ipynb)
