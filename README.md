@@ -18,3 +18,4 @@ This repository contains the code for all the programming tasks of the Machine L
 * [Mean/Covariance of a data set and effect of linear transformation](pca/week1.ipynb)
 * [Distances and Angles between Images](pca/week2.ipynb)
 * [Orthogonal Projections](pca/week3.ipynb)
+* [Principal Component Analysis (PCA)](pca/week4.ipynb)
